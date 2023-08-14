@@ -1,2 +1,4 @@
 .vscode
 xdp_prog.o
+
+*.sh
